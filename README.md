@@ -2,7 +2,7 @@
 
 Android Pdf Reader to read PDFs without increasing app size. <br />
 
-![Pdf View]()
+![Pdf View](https://github.com/aditya09tyagi/AndroidPdfReader/blob/master/pdf_reader_demo.gif)
 <br />
 <br />
 <b>To add in your .xml file : </b>
